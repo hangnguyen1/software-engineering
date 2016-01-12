@@ -31,13 +31,13 @@ In detail, the system needs to meet these requirements:
 
 1.5. To inform the customer about the legislative activities related to pets. 
 
-2. To analyze the history of pets’ services and estimate what people will most likely choose in the future. 
+2.To analyze the history of pets’ services and estimate what people will most likely choose in the future. 
 
 2.1. If a customer has a preferred choice of a pet, the Humane Societies offer periodically information related to the pets to retain the customer and help him/her decide adopting the pet. 
 
 2.2. To promote the national spirit of adopting a pet and take the responsibility to take care of a pet, and so on. 
 
-3. The system must be able of future expansion to incorporate information about existing Humane Societies and how to expand them in the future
+3.The system must be able of future expansion to incorporate information about existing Humane Societies and how to expand them in the future
 
 USE CASE DESCRIPTION
 Actors are customer, registered customer and staff.
