@@ -18,15 +18,23 @@ Following are the services Humane Societies provide:
 To support the services and make them popular to everybody in the region, Humane Societies need assistance of computer system. For example, the adoption service needs to display all pets and allows a customer to select one pet and book the selection for 24 hours (until the adoption paper work is signed). Also, the receiving service has to allow a customer to inform the staff that he/she brings a pet or more. The software also includes a way to inform the Humane Society that a pet was lost and facilitates the connection with the one who found it.
 
 In detail, the system needs to meet these requirements:
+
 1. To hold information about pets and their services. 
+
 1.1. To register online or in person as a customer looking to adopt a pet or to return a pet; 
+
 1.2. To record the details of losing and finding a pet and to perform the connection between these two persons. 
+
 1.3. To inform the customer about the hurricane/disaster preparedness related to pets. 
+
 1.4. To inform the customer about the animal population control. 
+
 1.5. To inform the customer about the legislative activities related to pets. 
 
 2. To analyze the history of pets’ services and estimate what people will most likely choose in the future. 
+
 2.1. If a customer has a preferred choice of a pet, the Humane Societies offer periodically information related to the pets to retain the customer and help him/her decide adopting the pet. 
+
 2.2. To promote the national spirit of adopting a pet and take the responsibility to take care of a pet, and so on. 
 
 3. The system must be able of future expansion to incorporate information about existing Humane Societies and how to expand them in the future
